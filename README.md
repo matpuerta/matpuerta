@@ -22,6 +22,6 @@
 
 ### 🌐 Redes e Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/matheus-puerta-a25349252/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/matheus-puerta-a25349252/)](https://www.linkedin.com/in/matheus-puerta-a25349252/))
 [![Portfólio](https://img.shields.io/badge/Meu_Portfólio-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/matpuerta/matpuerta/tree/main)
 
